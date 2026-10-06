@@ -1,0 +1,11 @@
+# IDEs and Editors
+.vscode/
+
+# Build and Binaries
+bin/
+obj/
+
+# Code::Blocks project files
+*.cbp
+*.depend
+*.layout
